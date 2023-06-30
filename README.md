@@ -1,0 +1,2 @@
+# Sobre o projeto:
+Esse repositório se trata do primeiro exercício do curso de Desenvolvimento de Software com foco em Back-end da Cubos Academy, e tem por finalidade testar as ferramentas e tecnologias apresentadas na primeira aula.
